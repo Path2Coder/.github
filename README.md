@@ -1,4 +1,4 @@
-Hi. We are a group of students and enthusiasts from Asia Pacific University.
+Hi. We are Path2Coder, a group of students and enthusiasts from Asia Pacific University.
 
-You can check out our social medias through this link:
+You can check out our social media through the link below:
 https://linktr.ee/SolSummoner
