@@ -1,7 +1,7 @@
 # Path2Coder
 ### Hi everyone. We are Path2Coder, a team of beginners and first-time hackathon players.
 
-Yes, we are the team that creates SolSummoner! 
+Yes, we are the team that creates SolSummoner! A card strategy game-fi based.
 
 You can check out our social media through the link below:
 https://linktr.ee/SolSummoner
@@ -11,6 +11,7 @@ https://linktr.ee/SolSummoner
 ### Path2Coder's Solana Hackfest Afterthought (8-4-2024):
 ```
 For our first hackathon, we created SolSummoner for the hackathon. Please remember that we thought of the idea at the last minute and finished it within the time range.
+So everything was rushed and we did not think a lot about it. We realized that we made mistakes and some f##k## ups during our last few days. 
 Of course, we were not happy with the outcome but not too sad about it either.
 
 Overall, this hackathon taught us a lot, and we know what to do next time. We will come back hopefully in the next hackathon (Most of us are busy so it is unlikely..) but who knows?
