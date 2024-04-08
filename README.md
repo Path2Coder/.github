@@ -6,10 +6,12 @@ You can check out our social media through the link below:
 https://linktr.ee/SolSummoner
 
 
-Path2Coder's Solana Hackfest Afterthought:
+Path2Coder's Solana Hackfest Afterthought (8-4-2024):
 ```
-For our first hackathon, we created SolSummoner for the hackathon. Please remember that we thought of the idea at the last minute and we managed to finish it within the time.
-Of course, we were not happy with the outcome but not too sad about it either. This hackathon taught us a lot, and we know what to do next time.
+For our first hackathon, we created SolSummoner for the hackathon. Please remember that we thought of the idea at the last minute and finished it within the time range.
+Of course, we were not happy with the outcome but not too sad about it either.
 
-Anyway, that is about it. We want to express our feelings honestly.
+Overall, this hackathon taught us a lot, and we know what to do next time. We will come back hopefully in the next hackathon (Most of us are busy so it is unlikely..) but who knows?
+
+Anyway, that is about it. We want to express our feelings honestly. Also, congrats to the top winners and others. You all are the real MVPs for participating in the hackathon!
 ```
